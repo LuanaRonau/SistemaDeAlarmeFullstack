@@ -10,7 +10,7 @@ const int buzzer = 12;
 
 // Configurações do WiFi
 const char* ssid = "TIM_ULTRAFIBRA_6810";
-const char* password = "inserir_senha";
+const char* password = "7uehpxa4dc";
 
 // Endereço do backend-
 const char* serverName = "http://192.168.1.8:8000";
